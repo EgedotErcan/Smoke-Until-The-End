@@ -3,3 +3,4 @@
 *.css linguist-detectable=false
 *.js linguist-detectable=true
 *.java linguist-detectable=false
+*.aspnet linguist-detectable=false
