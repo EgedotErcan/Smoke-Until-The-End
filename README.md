@@ -12,4 +12,4 @@
 
 # Result Smoke Until The End BGJ 21 
 ![Screenshot](bgjPhoto.png)
-> ### With our first game we have made
+> ### With our first game we have made among 113 indie game
