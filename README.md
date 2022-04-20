@@ -1,4 +1,4 @@
-# Smoke-Until-The-End
+# Smoke untilt the end
 #### This game was made by Progressive Games in 48 hours on Bogazıcı Game Jam . 
 
 # Developers 
